@@ -1272,8 +1272,12 @@ C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\cru
 C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\crudBlazor.Client.pdb
 C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Categories\CadastroCategory.razor.g.cs
 C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\Razor\Pages\Categories\CadastroCategory.razor.g.cs
-C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\SCAPdIhraS6nrm-cKL3FzgWZsnNc9XmJlDIIH9Y4H6c=.hash
-C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\RQZIqfrOkrbAMqBO63z22-hZIwXTQtAQmdQ1l-xlyRE=.hash
-C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\9A6xnN67j9FSuor6kmZXlet4PMVKkp_cP8MkNu21MTc=.hash
-C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\AdwFqFCw5tYJJKbBSXtZDrG69pGxhXyV8HFj8Cx3yMs=.hash
-C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\Qatk4j0hXa2AwnU50zRXSsrn2g2ZSLs5afQmLVijm2E=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Rent\CadastroRent.razor.g.cs
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\Razor\Pages\Rent\CadastroRent.razor.g.cs
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\C9asL4Six2f8Z1sUkJq202eL7sViRzu9I0XgOmStk_s=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\WB5cnjoR-j63AZ65OFFrUZwADfxXfEwQeawB18_o5AA=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Rent\ListRent.razor.g.cs
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\Razor\Pages\Rent\ListRent.razor.g.cs
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\cr9x0QM6cL7pZeXdeMYFSXhDbOMW1zck51IQllBNS8Y=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\QRaCV-sml9--BQCyAIXvYJeA9Y3A3MkjHbwSDcZP-TM=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\9quGb4i7Pw4Dg2lDFpWyQkpjeqnCJiSPqd3ubjbJ0uM=.hash

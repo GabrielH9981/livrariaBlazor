@@ -7,7 +7,7 @@ namespace crudBlazor.Shared
 {
     public class User
     {
-        public int Id { get; set; }
+        public int UserId { get; set; }
         [Required]
         public string Title { get; set; }
 
@@ -39,5 +39,6 @@ namespace crudBlazor.Shared
         [Range(typeof(bool), "true", "true", ErrorMessage = "Aceitar os termos é obrigatório")]
         public bool AcceptTerms { get; set; }
 
+        public Rent Rent { get; set; }
     }
 }

@@ -15,5 +15,7 @@ namespace crudBlazor.Shared
         public string Sinopse { get; set; }
         public int CategoryId { get; set; }
         public Category Category { get; set; }
+        public List<BookAutor> BookAutors { get; set; }
+        public Rent Rent { get; set; }
     }
 }

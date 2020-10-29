@@ -9,8 +9,8 @@ using crudBlazor.Server;
 namespace crudBlazor.Server.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20201029021525_odeioBlazor")]
-    partial class odeioBlazor
+    [Migration("20201029072853_odeioMinhaVida")]
+    partial class odeioMinhaVida
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -21,18 +21,18 @@ namespace crudBlazor.Server.Migrations
 
             modelBuilder.Entity("crudBlazor.Shared.Autor", b =>
                 {
-                    b.Property<int>("Id")
+                    b.Property<int>("AutorId")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    b.Property<int>("IdAutor")
-                        .HasColumnType("int");
+                    b.Property<bool>("Checked")
+                        .HasColumnType("tinyint(1)");
 
                     b.Property<string>("Nome")
                         .IsRequired()
                         .HasColumnType("longtext CHARACTER SET utf8mb4");
 
-                    b.HasKey("Id");
+                    b.HasKey("AutorId");
 
                     b.ToTable("Autors");
                 });
@@ -41,9 +41,6 @@ namespace crudBlazor.Server.Migrations
                 {
                     b.Property<int>("BookId")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    b.Property<int?>("AutorId")
                         .HasColumnType("int");
 
                     b.Property<int>("CategoryId")
@@ -59,11 +56,24 @@ namespace crudBlazor.Server.Migrations
 
                     b.HasKey("BookId");
 
-                    b.HasIndex("AutorId");
-
                     b.HasIndex("CategoryId");
 
                     b.ToTable("Books");
+                });
+
+            modelBuilder.Entity("crudBlazor.Shared.BookAutor", b =>
+                {
+                    b.Property<int>("BookId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("AutorId")
+                        .HasColumnType("int");
+
+                    b.HasKey("BookId", "AutorId");
+
+                    b.HasIndex("AutorId");
+
+                    b.ToTable("BookAutors");
                 });
 
             modelBuilder.Entity("crudBlazor.Shared.Category", b =>
@@ -81,9 +91,35 @@ namespace crudBlazor.Server.Migrations
                     b.ToTable("Categories");
                 });
 
+            modelBuilder.Entity("crudBlazor.Shared.Rent", b =>
+                {
+                    b.Property<int>("RentId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    b.Property<int>("BookId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("UserId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("nomeBiblioteca")
+                        .HasColumnType("longtext CHARACTER SET utf8mb4");
+
+                    b.HasKey("RentId");
+
+                    b.HasIndex("BookId")
+                        .IsUnique();
+
+                    b.HasIndex("UserId")
+                        .IsUnique();
+
+                    b.ToTable("Rents");
+                });
+
             modelBuilder.Entity("crudBlazor.Shared.User", b =>
                 {
-                    b.Property<int>("Id")
+                    b.Property<int>("UserId")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
@@ -122,20 +158,46 @@ namespace crudBlazor.Server.Migrations
                         .IsRequired()
                         .HasColumnType("longtext CHARACTER SET utf8mb4");
 
-                    b.HasKey("Id");
+                    b.HasKey("UserId");
 
                     b.ToTable("Users");
                 });
 
             modelBuilder.Entity("crudBlazor.Shared.Book", b =>
                 {
-                    b.HasOne("crudBlazor.Shared.Autor", null)
-                        .WithMany("Books")
-                        .HasForeignKey("AutorId");
-
                     b.HasOne("crudBlazor.Shared.Category", "Category")
                         .WithMany("Books")
                         .HasForeignKey("CategoryId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+                });
+
+            modelBuilder.Entity("crudBlazor.Shared.BookAutor", b =>
+                {
+                    b.HasOne("crudBlazor.Shared.Autor", "Autor")
+                        .WithMany("BookAutors")
+                        .HasForeignKey("AutorId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("crudBlazor.Shared.Book", "Book")
+                        .WithMany("BookAutors")
+                        .HasForeignKey("BookId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+                });
+
+            modelBuilder.Entity("crudBlazor.Shared.Rent", b =>
+                {
+                    b.HasOne("crudBlazor.Shared.Book", "Book")
+                        .WithOne("Rent")
+                        .HasForeignKey("crudBlazor.Shared.Rent", "BookId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("crudBlazor.Shared.User", "User")
+                        .WithOne("Rent")
+                        .HasForeignKey("crudBlazor.Shared.Rent", "UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
                 });

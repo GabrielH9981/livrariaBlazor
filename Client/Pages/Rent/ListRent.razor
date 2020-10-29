@@ -1,0 +1,78 @@
+@page  "/Rent/ListRent"
+@using System.Net.Http
+@inject HttpClient Http
+@inject NavigationManager NavigationManager
+
+<h3>Livros Alugados</h3>
+
+<div class="card-body">
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">Id do Aluguel</th>
+                <th scope="col">Nome do Usuário</th>
+                <th scope="col">Titulo do Livro</th>
+                <th scope="col">Categoria</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in rentsList)
+            {
+                <tr>
+                <td>@item.RentId</td>  
+                <td>@item.User.FirstName</td>
+                <td>@item.Book.Titulo</td> 
+                <td>@item.Book.Category.Nome</td>
+            }     
+                <td>
+                    <button class="btn btn-danger" @onclick="@(() => DeleteRent(item.RentId))">Delete</button>
+                </td>
+            </tr>
+            }   
+        </tbody>
+    </table>
+</div>
+
+@code {
+
+    private List<User> userList = new List<User>();
+    private List<Book> bookList = new List<Book>();
+    private List<Category> categoryList = new List<Category>();
+    private List<Rent> rentsList = new List<Rent>();
+
+    protected override async Task OnInitializedAsync()
+    {
+
+        var users = await Http.GetFromJsonAsync<List<User>>("/User/List");
+        foreach (var item in users)
+        {
+            userList.Add(item);
+        }
+
+        var books = await Http.GetFromJsonAsync<List<Book>>("/Book/List");
+        foreach (var item in books)
+        {
+            bookList.Add(item);
+        }
+
+        var categories = await Http.GetFromJsonAsync<List<Category>>("/Category/List");
+        foreach (var item in categories)
+        {
+            categoryList.Add(item);
+        }
+
+        var rents = await Http.GetFromJsonAsync<List<Rent>>("/Rent/List");
+        foreach (var item in rents)
+        {
+            rentsList.Add(item);
+        }
+    }
+
+    private async Task DeleteRent(int itemId)
+    {
+        //call controller
+        await Http.DeleteAsync("/Rent/Delete/"+itemId);
+        NavigationManager.NavigateTo("Rent/ListRent", true);
+    }
+
+}

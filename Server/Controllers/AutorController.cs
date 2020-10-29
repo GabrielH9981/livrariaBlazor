@@ -29,7 +29,7 @@ public class AutorController : Controller
     [Route("GetById")]
     public async Task<IActionResult> Get([FromQuery] string id)
     {
-        var autor = await db.Autors.SingleOrDefaultAsync(x => x.IdAutor == Convert.ToInt32(id));
+        var autor = await db.Autors.SingleOrDefaultAsync(x => x.AutorId == Convert.ToInt32(id));
         return Ok(autor);
     }
 

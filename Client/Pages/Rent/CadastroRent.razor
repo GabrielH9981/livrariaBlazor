@@ -1,0 +1,76 @@
+@page  "/Rent/CadastroRent"
+@using System.Net.Http
+@inject HttpClient Http
+@inject NavigationManager NavigationManager
+
+<div class="card m-3">
+    <h4 class="card-header">Aluguel</h4>
+    <div class="card-body">
+        <EditForm Model="@rentDto" OnValidSubmit="HandleValidSubmit" @onreset="HandleReset">
+            <DataAnnotationsValidator />
+                 
+                <div>
+                <InputSelect @bind-Value="rentDto.UserId">
+                    <option value="">Select</option>
+                    @foreach (var user in usersList)
+                            {
+                                <option value="@user.UserId">@user.FirstName</option>
+                            }
+                        </InputSelect>
+                </div>
+                
+
+                <div>
+                <InputSelect @bind-Value="rentDto.BookId">
+                    <option value="">Select</option>
+                    @foreach (var book in booksList)
+                            {
+                                <option value="@book.BookId">@book.Titulo</option>
+                            }
+                        </InputSelect>
+                </div>
+
+            <div class="text-center">
+                <button type="submit" class="btn btn-primary mr-1">Salvar</button>
+                <button type="reset" class="btn btn-secondary">Cancel</button>
+            </div>
+        </EditForm>
+    </div>
+</div>
+
+@code {
+    
+    private RentDto rentDto = new RentDto();
+    private EditContext editContext { get; set; }
+    private List<Book> booksList = new List<Book>();
+    private List<User> usersList = new List<User>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        // carregar os livros
+        var books = await Http.GetFromJsonAsync<List<Book>>("/Book/List");
+        foreach (var item in books)
+        {
+            booksList.Add(item);
+        }
+
+        // carregar os usuários
+        var users = await Http.GetFromJsonAsync<List<User>>("/User/List");
+        foreach (var item in users)
+        {
+            usersList.Add(item);
+        }
+    }
+
+    private async Task HandleValidSubmit()
+    {
+        var teste = await Http.PostAsJsonAsync("/Rent/Create", rentDto);
+        NavigationManager.NavigateTo("Rent/ListRent");
+    }
+
+    private void HandleReset()
+    {
+        rentDto = new RentDto();
+        editContext = new EditContext(rentDto);
+    }
+}

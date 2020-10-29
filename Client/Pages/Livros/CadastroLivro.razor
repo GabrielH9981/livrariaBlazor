@@ -20,6 +20,7 @@
                     <ValidationMessage For="@(() => book.Sinopse)" />
                 </div> 
 
+                <div>
                 <InputSelect @bind-Value="book.CategoryId">
                     <option value="">Select</option>
                     @foreach (var category in categoriesList)
@@ -27,8 +28,29 @@
                                 <option value="@category.CategoryId">@category.Nome</option>
                             }
                         </InputSelect>
-                
+                </div>
 
+                <!--
+                <div>
+                <InputSelect @bind-Value="book.BookAutors">
+                    <option value="">Select</option>
+                    @foreach (var autor in autorsList)
+                            {
+                                <option value="@autor.AutorId">@autor.Nome</option>
+                            }
+                        </InputSelect>
+                </div>
+                -->
+
+                <div class="form-check form-check-inline">
+                    @foreach (var autor in autorsList)
+                    {
+                        <div class="form-check form-check-inline">
+                            <input class="form-check-input" type="checkbox" @bind-value="@autor.Checked" />
+                            <label class="form-check-label">@autor.Nome</label>
+                        </div>
+                    }
+                </div>
 
             <div class="text-center">
                 <button type="submit" class="btn btn-primary mr-1">Salvar</button>
@@ -39,17 +61,38 @@
 </div>
 
 @code {
-
+    
     private BookDto book = new BookDto();
+    private List<Autor> autorList = new List<Autor>();
     private EditContext editContext { get; set; }
     private List<Category> categoriesList = new List<Category>();
+    private List<Autor> autorsList = new List<Autor>();
 
     protected override async Task OnInitializedAsync()
     {
+        // carregar as categorias
         var categories = await Http.GetFromJsonAsync<List<Category>>("/Category/List");
         foreach (var item in categories)
         {
             categoriesList.Add(item);
+        }
+
+        // carregar os autores
+        var autors = await Http.GetFromJsonAsync<List<Autor>>("/Autor/List");
+        foreach (var item in autors)
+        {
+            autorsList.Add(item);
+        }
+    }
+
+    private async Task OnChangeCat(string value)
+    {
+        var autores = await Http.GetFromJsonAsync<List<Autor>>("/Autor/List");
+        autorList.Clear();
+        var autoresByBook = autores.Where(c => c.AutorId == Convert.ToInt32(value));
+        foreach (var item in autoresByBook)
+        {
+            autorsList.Add(item);
         }
     }
 

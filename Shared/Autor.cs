@@ -7,10 +7,10 @@ namespace crudBlazor.Shared
 {
     public class Autor
     {
-        public int Id { get; set; }
-        public int IdAutor { get; set; }
+        public int AutorId { get; set; }
         [Required]
         public string Nome { get; set; }
-        public List<Book> Books { get; set; }
+        public bool Checked { get; set; }
+        public List<BookAutor> BookAutors { get; set; }
     }
 }
