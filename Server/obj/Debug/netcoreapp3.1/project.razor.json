@@ -2912,39 +2912,6 @@
         }
       },
       {
-        "HashCode": 580695308,
-        "Kind": "Components.Component",
-        "Name": "crudBlazor.Client.Pages.Autor.ListAutor",
-        "AssemblyName": "crudBlazor.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ListAutor"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "crudBlazor.Client.Pages.Autor.ListAutor"
-        }
-      },
-      {
-        "HashCode": -1358390266,
-        "Kind": "Components.Component",
-        "Name": "crudBlazor.Client.Pages.Autor.ListAutor",
-        "AssemblyName": "crudBlazor.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "crudBlazor.Client.Pages.Autor.ListAutor"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "crudBlazor.Client.Pages.Autor.ListAutor",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 1817170940,
         "Kind": "Components.Component",
         "Name": "crudBlazor.Client.Pages.Autor.CadastroAutor",
@@ -2974,6 +2941,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "crudBlazor.Client.Pages.Autor.CadastroAutor",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 580695308,
+        "Kind": "Components.Component",
+        "Name": "crudBlazor.Client.Pages.Autor.ListAutor",
+        "AssemblyName": "crudBlazor.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ListAutor"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "crudBlazor.Client.Pages.Autor.ListAutor"
+        }
+      },
+      {
+        "HashCode": -1358390266,
+        "Kind": "Components.Component",
+        "Name": "crudBlazor.Client.Pages.Autor.ListAutor",
+        "AssemblyName": "crudBlazor.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "crudBlazor.Client.Pages.Autor.ListAutor"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "crudBlazor.Client.Pages.Autor.ListAutor",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -3143,6 +3143,39 @@
         }
       },
       {
+        "HashCode": 191241308,
+        "Kind": "Components.Component",
+        "Name": "crudBlazor.Client.Pages.Livros.CadastroLivro",
+        "AssemblyName": "crudBlazor.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "CadastroLivro"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "crudBlazor.Client.Pages.Livros.CadastroLivro"
+        }
+      },
+      {
+        "HashCode": 621530939,
+        "Kind": "Components.Component",
+        "Name": "crudBlazor.Client.Pages.Livros.CadastroLivro",
+        "AssemblyName": "crudBlazor.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "crudBlazor.Client.Pages.Livros.CadastroLivro"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "crudBlazor.Client.Pages.Livros.CadastroLivro",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -768892610,
         "Kind": "Components.Component",
         "Name": "crudBlazor.Client.Pages.Livros.ListBook",
@@ -3176,35 +3209,68 @@
         }
       },
       {
-        "HashCode": 191241308,
+        "HashCode": -1659486833,
         "Kind": "Components.Component",
-        "Name": "crudBlazor.Client.Pages.Livros.CadastroLivro",
+        "Name": "crudBlazor.Client.Pages.Rent.CadastroRent",
         "AssemblyName": "crudBlazor.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "CadastroLivro"
+            "TagName": "CadastroRent"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "crudBlazor.Client.Pages.Livros.CadastroLivro"
+          "Common.TypeName": "crudBlazor.Client.Pages.Rent.CadastroRent"
         }
       },
       {
-        "HashCode": 621530939,
+        "HashCode": -374122631,
         "Kind": "Components.Component",
-        "Name": "crudBlazor.Client.Pages.Livros.CadastroLivro",
+        "Name": "crudBlazor.Client.Pages.Rent.CadastroRent",
         "AssemblyName": "crudBlazor.Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "crudBlazor.Client.Pages.Livros.CadastroLivro"
+            "TagName": "crudBlazor.Client.Pages.Rent.CadastroRent"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "crudBlazor.Client.Pages.Livros.CadastroLivro",
+          "Common.TypeName": "crudBlazor.Client.Pages.Rent.CadastroRent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1025785395,
+        "Kind": "Components.Component",
+        "Name": "crudBlazor.Client.Pages.Rent.ListRent",
+        "AssemblyName": "crudBlazor.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ListRent"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "crudBlazor.Client.Pages.Rent.ListRent"
+        }
+      },
+      {
+        "HashCode": -1120340967,
+        "Kind": "Components.Component",
+        "Name": "crudBlazor.Client.Pages.Rent.ListRent",
+        "AssemblyName": "crudBlazor.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "crudBlazor.Client.Pages.Rent.ListRent"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "crudBlazor.Client.Pages.Rent.ListRent",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -3328,72 +3394,6 @@
         }
       },
       {
-        "HashCode": 1025785395,
-        "Kind": "Components.Component",
-        "Name": "crudBlazor.Client.Pages.Rent.ListRent",
-        "AssemblyName": "crudBlazor.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ListRent"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "crudBlazor.Client.Pages.Rent.ListRent"
-        }
-      },
-      {
-        "HashCode": -1120340967,
-        "Kind": "Components.Component",
-        "Name": "crudBlazor.Client.Pages.Rent.ListRent",
-        "AssemblyName": "crudBlazor.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "crudBlazor.Client.Pages.Rent.ListRent"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "crudBlazor.Client.Pages.Rent.ListRent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1659486833,
-        "Kind": "Components.Component",
-        "Name": "crudBlazor.Client.Pages.Rent.CadastroRent",
-        "AssemblyName": "crudBlazor.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "CadastroRent"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "crudBlazor.Client.Pages.Rent.CadastroRent"
-        }
-      },
-      {
-        "HashCode": -374122631,
-        "Kind": "Components.Component",
-        "Name": "crudBlazor.Client.Pages.Rent.CadastroRent",
-        "AssemblyName": "crudBlazor.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "crudBlazor.Client.Pages.Rent.CadastroRent"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "crudBlazor.Client.Pages.Rent.CadastroRent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -1067213248,
         "Kind": "Components.Component",
         "Name": "crudBlazor.Client.Shared.MainLayout",
@@ -3490,6 +3490,39 @@
         }
       },
       {
+        "HashCode": -1687770447,
+        "Kind": "Components.Component",
+        "Name": "crudBlazor.Client.Shared.NavMenu",
+        "AssemblyName": "crudBlazor.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "crudBlazor.Client.Shared.NavMenu"
+        }
+      },
+      {
+        "HashCode": -19590343,
+        "Kind": "Components.Component",
+        "Name": "crudBlazor.Client.Shared.NavMenu",
+        "AssemblyName": "crudBlazor.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "crudBlazor.Client.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "crudBlazor.Client.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -505622530,
         "Kind": "Components.Component",
         "Name": "crudBlazor.Client.Shared.SurveyPrompt",
@@ -3539,39 +3572,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "crudBlazor.Client.Shared.SurveyPrompt",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1687770447,
-        "Kind": "Components.Component",
-        "Name": "crudBlazor.Client.Shared.NavMenu",
-        "AssemblyName": "crudBlazor.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "crudBlazor.Client.Shared.NavMenu"
-        }
-      },
-      {
-        "HashCode": -19590343,
-        "Kind": "Components.Component",
-        "Name": "crudBlazor.Client.Shared.NavMenu",
-        "AssemblyName": "crudBlazor.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "crudBlazor.Client.Shared.NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "crudBlazor.Client.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },

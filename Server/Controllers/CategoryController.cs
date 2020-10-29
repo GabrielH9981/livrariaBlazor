@@ -54,4 +54,22 @@ public class CategoryController : Controller
             return View(e);
         }
     }
+
+    [HttpDelete]
+    [Route("Delete/{id}")]
+    public async Task<ActionResult<Category>> Delete(int id)
+    {
+        if (!ModelState.IsValid)
+        {
+            return BadRequest(ModelState);
+        }
+        var category = await db.Categories.FindAsync(id);
+        if (category == null)
+        {
+            return NotFound();
+        }
+        db.Categories.Remove(category);
+        await db.SaveChangesAsync();
+        return Ok(category);
+    }
 }

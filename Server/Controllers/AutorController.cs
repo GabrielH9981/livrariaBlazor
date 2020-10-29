@@ -53,4 +53,22 @@ public class AutorController : Controller
             return View(e);
         }
     }
+
+    [HttpDelete]
+    [Route("Delete/{id}")]
+    public async Task<ActionResult<Autor>> Delete(int id)
+    {
+        if (!ModelState.IsValid)
+        {
+            return BadRequest(ModelState);
+        }
+        var autor = await db.Autors.FindAsync(id);
+        if (autor == null)
+        {
+            return NotFound();
+        }
+        db.Autors.Remove(autor);
+        await db.SaveChangesAsync();
+        return Ok(autor);
+    }
 }
