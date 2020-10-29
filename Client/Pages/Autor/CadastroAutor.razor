@@ -1,0 +1,42 @@
+@page  "/Autor/CadastroAutor"
+@using System.Net.Http
+@inject HttpClient Http
+@inject NavigationManager NavigationManager
+
+<div class="card m-3">
+    <h4 class="card-header">Cadastro de Autor</h4>
+    <div class="card-body">
+        <EditForm Model="@autor" OnValidSubmit="HandleValidSubmit" @onreset="HandleReset">
+            <DataAnnotationsValidator />
+            <div class="form-row">
+                    <label>Nome do Autor:</label>
+                    <InputText @bind-Value="autor.Nome" class="form-control" />
+                    <ValidationMessage For="@(() => autor.Nome)" />
+                </div>  
+            <div class="text-center">
+                <button type="submit" class="btn btn-primary mr-1">Salvar</button>
+                <button type="reset" class="btn btn-secondary">Cancel</button>
+            </div>
+        </EditForm>
+    </div>
+</div>
+
+@code {
+
+    private Autor autor = new Autor();
+    private EditContext editContext { get; set; }
+
+    private async Task HandleValidSubmit()
+    {
+        //Enviar dados para o Controller no Backend
+        var teste = await Http.PostAsJsonAsync("/Autor/Create", autor);
+        NavigationManager.NavigateTo("Autor/ListAutor");
+
+    }
+
+    private void HandleReset()
+    {
+        autor = new Autor();
+        editContext = new EditContext(autor);
+    }
+}

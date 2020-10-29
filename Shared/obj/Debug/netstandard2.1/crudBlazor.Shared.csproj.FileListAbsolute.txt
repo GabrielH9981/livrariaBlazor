@@ -1,0 +1,27 @@
+C:\Users\Gabriel\Desktop\crudBlazor\Shared\bin\Debug\netstandard2.1\crudBlazor.Shared.deps.json
+C:\Users\Gabriel\Desktop\crudBlazor\Shared\bin\Debug\netstandard2.1\crudBlazor.Shared.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Shared\bin\Debug\netstandard2.1\crudBlazor.Shared.pdb
+C:\Users\Gabriel\Desktop\crudBlazor\Shared\obj\Debug\netstandard2.1\crudBlazor.Shared.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\crudBlazor\Shared\obj\Debug\netstandard2.1\crudBlazor.Shared.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\crudBlazor\Shared\obj\Debug\netstandard2.1\crudBlazor.Shared.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\crudBlazor\Shared\obj\Debug\netstandard2.1\crudBlazor.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\crudBlazor\Shared\obj\Debug\netstandard2.1\crudBlazor.Shared.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Shared\obj\Debug\netstandard2.1\crudBlazor.Shared.pdb
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Shared\bin\Debug\netstandard2.1\crudBlazor.Shared.deps.json
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Shared\bin\Debug\netstandard2.1\crudBlazor.Shared.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Shared\bin\Debug\netstandard2.1\crudBlazor.Shared.pdb
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Shared\obj\Debug\netstandard2.1\crudBlazor.Shared.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Shared\obj\Debug\netstandard2.1\crudBlazor.Shared.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Shared\obj\Debug\netstandard2.1\crudBlazor.Shared.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Shared\obj\Debug\netstandard2.1\crudBlazor.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Shared\obj\Debug\netstandard2.1\crudBlazor.Shared.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Shared\obj\Debug\netstandard2.1\crudBlazor.Shared.pdb
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Shared\bin\Debug\netstandard2.1\crudBlazor.Shared.deps.json
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Shared\bin\Debug\netstandard2.1\crudBlazor.Shared.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Shared\bin\Debug\netstandard2.1\crudBlazor.Shared.pdb
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Shared\obj\Debug\netstandard2.1\crudBlazor.Shared.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Shared\obj\Debug\netstandard2.1\crudBlazor.Shared.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Shared\obj\Debug\netstandard2.1\crudBlazor.Shared.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Shared\obj\Debug\netstandard2.1\crudBlazor.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Shared\obj\Debug\netstandard2.1\crudBlazor.Shared.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Shared\obj\Debug\netstandard2.1\crudBlazor.Shared.pdb

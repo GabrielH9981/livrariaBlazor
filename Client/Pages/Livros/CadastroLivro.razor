@@ -1,0 +1,67 @@
+@page  "/Book/CadastroBook"
+@using System.Net.Http
+@inject HttpClient Http
+@inject NavigationManager NavigationManager
+
+<div class="card m-3">
+    <h4 class="card-header">Cadastro de Livros</h4>
+    <div class="card-body">
+        <EditForm Model="@book" OnValidSubmit="HandleValidSubmit" @onreset="HandleReset">
+            <DataAnnotationsValidator />
+                <div class="form-row">
+                    <label>Nome do Livro:</label>
+                    <InputText @bind-Value="book.Titulo" class="form-control" />
+                    <ValidationMessage For="@(() => book.Titulo)" />
+                </div>  
+
+                <div class="form-row">
+                    <label>Sinopse:</label>
+                    <InputText @bind-Value="book.Sinopse" class="form-control" />
+                    <ValidationMessage For="@(() => book.Sinopse)" />
+                </div> 
+
+                <InputSelect @bind-Value="book.CategoryId">
+                    <option value="">Select</option>
+                    @foreach (var category in categoriesList)
+                            {
+                                <option value="@category.CategoryId">@category.Nome</option>
+                            }
+                        </InputSelect>
+                
+
+
+            <div class="text-center">
+                <button type="submit" class="btn btn-primary mr-1">Salvar</button>
+                <button type="reset" class="btn btn-secondary">Cancel</button>
+            </div>
+        </EditForm>
+    </div>
+</div>
+
+@code {
+
+    private BookDto book = new BookDto();
+    private EditContext editContext { get; set; }
+    private List<Category> categoriesList = new List<Category>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        var categories = await Http.GetFromJsonAsync<List<Category>>("/Category/List");
+        foreach (var item in categories)
+        {
+            categoriesList.Add(item);
+        }
+    }
+
+    private async Task HandleValidSubmit()
+    {
+        var teste = await Http.PostAsJsonAsync("/Book/Create", book);
+        NavigationManager.NavigateTo("Book/ListBook");
+    }
+
+    private void HandleReset()
+    {
+        book = new BookDto();
+        editContext = new EditContext(book);
+    }
+}

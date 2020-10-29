@@ -1,0 +1,1279 @@
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\Properties\launchSettings.json
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\crudBlazor.Client.StaticWebAssets.xml
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\crudBlazor.Client.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\crudBlazor.Client.pdb
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\crudBlazor.Client.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.Json.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Buffers.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\mscorlib.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Memory.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Json.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\netstandard.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.Linq.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Core.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Net.WebSockets.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Bindings.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Mono.Security.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Transactions.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.Serialization.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ServiceModel.Internals.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Composition.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.FileSystem.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Drawing.Common.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.DataSetExtensions.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.Vectors.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Encodings.Web.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Annotations.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.DataAnnotations.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\crudBlazor.Shared.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Options.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\crudBlazor.Client.pdb
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\crudBlazor.Shared.pdb
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.3.2.0.js
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.timezones.dat
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.wasm
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.webassembly.js
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.boot.json
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\crudBlazor.Client.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.Json.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Buffers.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\mscorlib.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Threading.Tasks.Extensions.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Memory.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Json.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\netstandard.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.Linq.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Core.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Net.WebSockets.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Bindings.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Mono.Security.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Transactions.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.Serialization.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ServiceModel.Internals.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Composition.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.FileSystem.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Drawing.Common.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.DataSetExtensions.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.Vectors.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Encodings.Web.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Annotations.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\crudBlazor.Shared.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Options.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\crudBlazor.Client.pdb.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\crudBlazor.Shared.pdb.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.3.2.0.js.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.timezones.dat.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.wasm.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.webassembly.js.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.boot.json.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Logging.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Options.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.JSInterop.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\System.Buffers.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\System.ComponentModel.Annotations.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\System.Memory.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\System.Net.Http.Json.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\System.Numerics.Vectors.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\System.Text.Encodings.Web.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\System.Text.Json.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\System.Threading.Tasks.Extensions.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\crudBlazor.Shared.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\bin\Debug\netstandard2.1\crudBlazor.Shared.pdb
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\crudBlazor.Client.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\crudBlazor.Client.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\crudBlazor.Client.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\crudBlazor.Client.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\crudBlazor.Client.RazorComponent.input.cache
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\App.razor.g.cs
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\crudBlazor.Client.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\crudBlazor.Client.TagHelpers.input.cache
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\crudBlazor.Client.TagHelpers.output.cache
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\crudBlazor.Client.RazorCoreGenerate.cache
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\Razor\App.razor.g.cs
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\Razor\Pages\Counter.razor.g.cs
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\Razor\Pages\FetchData.razor.g.cs
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\Razor\Pages\Index.razor.g.cs
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\Razor\_Imports.razor.g.cs
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\crudBlazor.Client.RazorTargetAssemblyInfo.cache
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\crudBlazor.Client.csproj.CopyComplete
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\blazor\unlinked.output
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\TkH6yxFQlTfY8NfznePrCdYJiEVpM9Dqy4Uu4H9qk10=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\-cPXlNTX8GKF-lIn-2DIjtxTe0Wpy4ZDcyAj67b6JYk=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\kL-omZDwqByAi_lPdMeDmr3XjHcn4RVb_LmZ4mut1Yc=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\-zcPVM75OAY_joGVM8yIC1gO1SFYWP1CFERgQ8PJkfA=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\IPbQMdJxZXdk8HTlaPyXdQ6Zb82iZLphnM74yO4EURQ=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\Zw2-5aDWjgMedporhjigwhi-UCLcfl0tfa0LXUyD9HE=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\r6QdEXq0KfB8oZDzhnV4xskSbzJA0yBVi6XFpa3TGHM=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\ob5gN-szfb1CwWnyQWvWvuid3u4df593KvZeoJQEaKc=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\6XMT1eT3svGdg6hFzAHJscYdTQjakoYccYTdHmKSr7Y=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\8g0neeYVmPrxWgbMI0ZTVO6257qMisUTPZ78egAnIMw=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\RMOYBniHZkD8OZrBV3ONIMTZqsBhSAcBFm4pVuY9dv4=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\fMngt4py0YmfHqV6eONyCI6R5m_YOE7KZ3U4MzCrskE=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\VAHA4LWcsdHUBgFG1-xwhc4IyJ0ZH9UyK9_qSPzDa6Y=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\C09aqx1vDLK7zQ9XnZcUqAgTDRwybxhRg-FR8HSk1v8=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\6mtLxbGMMGcIfch8cp0W9gmBoI493AxBRUPGEzOn3nU=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\moW4EYN6ExD6T0vSBMMggn62cZaTd8dSr9b-yj-9dPM=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\LUtkiqNd5ABTiuiYaqzaJxVjPq_Z4FqezuIWk-faqSA=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\R8CUbbWAKar388eFQJhUgiTgLEv2Mih9wr9iO0P7ImU=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\ptCMHBy9q8MMLU0ukLMuvvhQk-yYljw37MTKtfsvuFQ=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\hLbkXBzxUk9DSXYTLGRowe_80rxmpXsqEZbPIL4_5zs=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\vcCLMX4xAsUqKuQjjIkzu1O9pHGO-tdvysgSmEjL6oo=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\eejp4oI3sQBq-tI6GsJNaPu3Dkdot5Vbn8_R3w2vYLE=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\dxfTuT6ffPMmvuUUTfv7_bpLtOZZZHQdz77hjhy9qHw=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\qAKfFnquY_7UC-MzLi04rjqEhLzTryCoLg-S6MxI19I=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\Bs1Wrmh4ex9dTEIT0yCRF52N-wOmsBDt457BHr0-ssM=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\bSgsT2x5xMvs8mara5wU_EJwcyHa9GVMU85HwhWcdWM=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\m7Q_cF5-ji3OMfdGlCuE8pQ-iM_kxNHLq-IEWVvIaOg=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\tmnkCmP9OzLUkpQ3LP7PRosi7gt5pyfEZCM6aqAokFI=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\LIfCYwg_PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\PEg9ghiKSWBTX0jq8pFDvv2Yvw92Y8W0ELtWrSE4fhA=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\6gJMwefpsWLHWsEipZp143xn8k2Ea27upnXqjUT6iNI=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\VGaB03HIjFg4jeK7BomIFzlhhY3vW5N_jWuRqZkbJsY=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\FJ_rEgcx6ljTxwbRXZSUGfrDKpVvOxHCSfNxbnXNn3M=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\oK1Bjv95fH_hSbogUkJE_xDAI203kJG6lL6Sm-NuPWg=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\y-FyJQOcW2TOcTp7Iuv8brGBzL5ZP0oJdG7ysK_gtKc=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\n0Ag7rF7ZQamklPSZkakIXkRoa6JwlmPSS0cRaAhJQM=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\2jNkt--JGfoqWNB8whRdJotnsanWbH3FfxZWz0gyLTs=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\mQqyOIjuVduaLQ7ZyvDrChDLp8rTeQknIIWDzqsO4eY=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\3trD3kyUrc0a2IrNSfLT2rSZ35MMdD2qtqG_vk_U8QA=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\tY1dlliVr_yGzBF7d0z-iaulZfBJNaSrCKDD0RP2cc8=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\r8LuqDQgcB-c3E48xHqsAY1eRZB1ZtuqZF6nlufn7kg=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\DrtNiKIMjfSOdamH5Bs5zHmjFADgNiwrY5tRgTm6XuI=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\_kkwUt5LUrFrnFcHiSvLP3Ps50UAimB6C5utgehqOo4=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\rvTW0d54uLW0iDMAX30lpmr9f8uHoS3YYkEU5zNGhyc=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\LqwA2Rpm96Ualk0IhLZar87kfRCyKHzHTeTt2jYhm7M=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\czNf3btAeBW-vvID5LAfgcsNZ_GM3ssVuPaMflcg0rs=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\blazor\blazor.boot.json
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\crudBlazor.Client.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\mscorlib.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Threading.Tasks.Extensions.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Memory.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Json.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\netstandard.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.Linq.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Core.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Net.WebSockets.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Bindings.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Mono.Security.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Transactions.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.Serialization.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ServiceModel.Internals.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Composition.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.FileSystem.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Drawing.Common.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.DataSetExtensions.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.Vectors.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Encodings.Web.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Annotations.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\crudBlazor.Shared.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Options.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\crudBlazor.Client.pdb.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\crudBlazor.Shared.pdb.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.3.2.0.js.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.timezones.dat.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.wasm.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\blazor.webassembly.js.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\blazor.boot.json.gz
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\crudBlazor.Client.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\mscorlib.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Threading.Tasks.Extensions.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Memory.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Json.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\netstandard.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.Linq.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Core.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Net.WebSockets.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Bindings.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Mono.Security.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Transactions.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.Serialization.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ServiceModel.Internals.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Composition.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.FileSystem.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Drawing.Common.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.DataSetExtensions.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.Vectors.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Encodings.Web.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Annotations.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.DataAnnotations.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\crudBlazor.Shared.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Primitives.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Options.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\crudBlazor.Client.pdb.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\crudBlazor.Shared.pdb.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.3.2.0.js.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.timezones.dat.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.wasm.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\blazor.webassembly.js.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\blazor.boot.json.br
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\staticwebassets\crudBlazor.Client.StaticWebAssets.Manifest.cache
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\staticwebassets\crudBlazor.Client.StaticWebAssets.xml
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\crudBlazor.Client.dll
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\crudBlazor.Client.pdb
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\User\CadastroUsuario.razor.g.cs
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\User\ListUsuario.razor.g.cs
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\Razor\Pages\User\CadastroUsuario.razor.g.cs
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\Razor\Pages\User\ListUsuario.razor.g.cs
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\i7_uAWU_Z0C18JJubo-dF5wgYgrduxXAu7_NVxNtBcw=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\9HGvnQk80Pk4z-yz7w4BO2sgYDG_J9xi9cNVTdlG7CQ=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\vO_Y3zeokojTa4SlwlL6yXGo08U8eD7QqLl3B_oUU8U=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\BwqPvfEq7obG3cySRO7Q8cXop8mRJtyLlWnHbU45xzM=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Product\CadastroProduto.razor.g.cs
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Product\ListProduto.razor.g.cs
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\Razor\Pages\Product\CadastroProduto.razor.g.cs
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\Razor\Pages\Product\ListProduto.razor.g.cs
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\User\EditUsuario.razor.g.cs
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\Razor\Pages\User\EditUsuario.razor.g.cs
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Product\EditProduto.razor.g.cs
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\Razor\Pages\Product\EditProduto.razor.g.cs
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\TNiY9O3mR57Wl2qZKJtY0RAGT-iT73GWR9hZBdkoCxc=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\bYD-0ka6NU8s3-5G3hcNe1x29JcdpP8fLTyhbTMlMos=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\maXxukkNq2iYUExXItMz-qLn_Jh0mrMW_IjxuM73irQ=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\LvSvhtf0K-8ItOyPzlVcIeUtvIConBVIsNWB-P4yZ5Y=.hash
+C:\Users\Gabriel\Desktop\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\uMVRmgfZHq58KFE3S8VDMfF3Zq6rzFuqAl6ToyeXsnE=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\Properties\launchSettings.json
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\crudBlazor.Client.StaticWebAssets.xml
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\crudBlazor.Client.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\crudBlazor.Client.pdb
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\crudBlazor.Client.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Json.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\mscorlib.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Buffers.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\netstandard.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.Linq.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Core.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Net.WebSockets.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Memory.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Bindings.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Mono.Security.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Transactions.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.Serialization.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ServiceModel.Internals.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Composition.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.FileSystem.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Drawing.Common.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.DataSetExtensions.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.Vectors.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Encodings.Web.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.Json.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Annotations.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.DataAnnotations.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\crudBlazor.Shared.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Options.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\crudBlazor.Client.pdb
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\crudBlazor.Shared.pdb
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.3.2.0.js
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.timezones.dat
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.wasm
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.webassembly.js
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.boot.json
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\crudBlazor.Client.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Json.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\mscorlib.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Buffers.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\netstandard.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.Linq.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Core.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Net.WebSockets.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Memory.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Bindings.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Mono.Security.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Transactions.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.Serialization.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ServiceModel.Internals.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Composition.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.FileSystem.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Drawing.Common.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.DataSetExtensions.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Threading.Tasks.Extensions.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.Vectors.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Encodings.Web.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.Json.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Annotations.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\crudBlazor.Shared.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Options.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\crudBlazor.Client.pdb.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\crudBlazor.Shared.pdb.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.3.2.0.js.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.timezones.dat.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.wasm.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.webassembly.js.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.boot.json.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.CSharp.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Logging.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Options.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.Identity.Client.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.JSInterop.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\Microsoft.Win32.Registry.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\System.AppContext.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\System.Buffers.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\System.Collections.Concurrent.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\System.Collections.Immutable.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\System.Collections.NonGeneric.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\System.Collections.Specialized.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\System.ComponentModel.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\System.ComponentModel.Annotations.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\System.ComponentModel.Primitives.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\System.ComponentModel.TypeConverter.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\System.Dynamic.Runtime.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\System.IO.Compression.ZipFile.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\System.IO.FileSystem.Primitives.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\System.Linq.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\System.Linq.Expressions.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\System.Memory.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\System.Net.Http.Json.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\System.Numerics.Vectors.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\System.ObjectModel.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\System.Private.DataContractSerialization.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\System.Reflection.Emit.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\System.Reflection.Emit.Lightweight.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\System.Reflection.TypeExtensions.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\System.Runtime.Numerics.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\System.Runtime.Serialization.Formatters.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\System.Runtime.Serialization.Json.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\System.Runtime.Serialization.Primitives.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\System.Security.AccessControl.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\System.Security.Cryptography.OpenSsl.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\System.Security.Cryptography.Primitives.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\System.Security.Permissions.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\System.Security.Principal.Windows.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\System.Text.Encoding.CodePages.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\System.Text.Encodings.Web.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\System.Text.Json.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\System.Text.RegularExpressions.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\System.Threading.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\System.Threading.Tasks.Extensions.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\System.Xml.ReaderWriter.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\System.Xml.XDocument.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\System.Xml.XmlDocument.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\System.Xml.XmlSerializer.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\crudBlazor.Shared.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\bin\Debug\netstandard2.1\crudBlazor.Shared.pdb
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\crudBlazor.Client.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\crudBlazor.Client.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\crudBlazor.Client.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\crudBlazor.Client.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\crudBlazor.Client.RazorComponent.input.cache
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\App.razor.g.cs
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Categories\CadastroCategories.razor.g.cs
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Categories\ListCategory.razor.g.cs
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\User\CadastroUsuario.razor.g.cs
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\User\EditUsuario.razor.g.cs
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\User\ListUsuario.razor.g.cs
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\crudBlazor.Client.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\crudBlazor.Client.TagHelpers.input.cache
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\crudBlazor.Client.TagHelpers.output.cache
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\crudBlazor.Client.RazorCoreGenerate.cache
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\Razor\App.razor.g.cs
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\Razor\Pages\Categories\CadastroCategories.razor.g.cs
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\Razor\Pages\Categories\ListCategory.razor.g.cs
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\Razor\Pages\Index.razor.g.cs
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\Razor\Pages\User\CadastroUsuario.razor.g.cs
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\Razor\Pages\User\EditUsuario.razor.g.cs
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\Razor\Pages\User\ListUsuario.razor.g.cs
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\Razor\_Imports.razor.g.cs
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\crudBlazor.Client.RazorTargetAssemblyInfo.cache
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\crudBlazor.Client.csproj.CopyComplete
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\blazor\unlinked.output
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\i7_uAWU_Z0C18JJubo-dF5wgYgrduxXAu7_NVxNtBcw=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\kL-omZDwqByAi_lPdMeDmr3XjHcn4RVb_LmZ4mut1Yc=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\9HGvnQk80Pk4z-yz7w4BO2sgYDG_J9xi9cNVTdlG7CQ=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\-zcPVM75OAY_joGVM8yIC1gO1SFYWP1CFERgQ8PJkfA=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\IPbQMdJxZXdk8HTlaPyXdQ6Zb82iZLphnM74yO4EURQ=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\Zw2-5aDWjgMedporhjigwhi-UCLcfl0tfa0LXUyD9HE=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\r6QdEXq0KfB8oZDzhnV4xskSbzJA0yBVi6XFpa3TGHM=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\ob5gN-szfb1CwWnyQWvWvuid3u4df593KvZeoJQEaKc=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\-cPXlNTX8GKF-lIn-2DIjtxTe0Wpy4ZDcyAj67b6JYk=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\6XMT1eT3svGdg6hFzAHJscYdTQjakoYccYTdHmKSr7Y=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\8g0neeYVmPrxWgbMI0ZTVO6257qMisUTPZ78egAnIMw=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\RMOYBniHZkD8OZrBV3ONIMTZqsBhSAcBFm4pVuY9dv4=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\fMngt4py0YmfHqV6eONyCI6R5m_YOE7KZ3U4MzCrskE=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\VAHA4LWcsdHUBgFG1-xwhc4IyJ0ZH9UyK9_qSPzDa6Y=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\C09aqx1vDLK7zQ9XnZcUqAgTDRwybxhRg-FR8HSk1v8=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\6mtLxbGMMGcIfch8cp0W9gmBoI493AxBRUPGEzOn3nU=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\moW4EYN6ExD6T0vSBMMggn62cZaTd8dSr9b-yj-9dPM=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\LUtkiqNd5ABTiuiYaqzaJxVjPq_Z4FqezuIWk-faqSA=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\R8CUbbWAKar388eFQJhUgiTgLEv2Mih9wr9iO0P7ImU=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\ptCMHBy9q8MMLU0ukLMuvvhQk-yYljw37MTKtfsvuFQ=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\hLbkXBzxUk9DSXYTLGRowe_80rxmpXsqEZbPIL4_5zs=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\vcCLMX4xAsUqKuQjjIkzu1O9pHGO-tdvysgSmEjL6oo=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\eejp4oI3sQBq-tI6GsJNaPu3Dkdot5Vbn8_R3w2vYLE=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\dxfTuT6ffPMmvuUUTfv7_bpLtOZZZHQdz77hjhy9qHw=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\TkH6yxFQlTfY8NfznePrCdYJiEVpM9Dqy4Uu4H9qk10=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\qAKfFnquY_7UC-MzLi04rjqEhLzTryCoLg-S6MxI19I=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\vO_Y3zeokojTa4SlwlL6yXGo08U8eD7QqLl3B_oUU8U=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\BwqPvfEq7obG3cySRO7Q8cXop8mRJtyLlWnHbU45xzM=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\qHdxgeB0nKE8odGQX_eGQwM_lg3dEkT2XpjVyoAB9bE=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\bSgsT2x5xMvs8mara5wU_EJwcyHa9GVMU85HwhWcdWM=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\m7Q_cF5-ji3OMfdGlCuE8pQ-iM_kxNHLq-IEWVvIaOg=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\tmnkCmP9OzLUkpQ3LP7PRosi7gt5pyfEZCM6aqAokFI=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\LIfCYwg_PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\PEg9ghiKSWBTX0jq8pFDvv2Yvw92Y8W0ELtWrSE4fhA=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\PBU5INASuPqDlIS0ic0TMSDwIZQ6BIM6N0S0K5FhZHE=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\VGaB03HIjFg4jeK7BomIFzlhhY3vW5N_jWuRqZkbJsY=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\FJ_rEgcx6ljTxwbRXZSUGfrDKpVvOxHCSfNxbnXNn3M=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\Vio27NdWW1HmLCdcXVEyHpx4LnRfNjOlElipIlxM-uQ=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\6eWNJmObgA9g37KbjpD_lhTy18eoW5cLdTcnDGGojBU=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\zTPnU1_9ypAxCxa2fYaOenSFRqQPNlOzqY11ZMnf0uU=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\OiB7aMJ4FWCMAGUuPV8m-9CZgx0Kap_ejQFSALUhpeQ=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\mQqyOIjuVduaLQ7ZyvDrChDLp8rTeQknIIWDzqsO4eY=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\3trD3kyUrc0a2IrNSfLT2rSZ35MMdD2qtqG_vk_U8QA=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\tY1dlliVr_yGzBF7d0z-iaulZfBJNaSrCKDD0RP2cc8=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\r8LuqDQgcB-c3E48xHqsAY1eRZB1ZtuqZF6nlufn7kg=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\DrtNiKIMjfSOdamH5Bs5zHmjFADgNiwrY5tRgTm6XuI=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\sMUxQEgnL-opNKBj6P9vNoOnnwb0545vj6DOruCVDcE=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\cKAZb7xh11kZxyizcq_t1c8646D5ZoQNvEwOg3z_DX8=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\LqwA2Rpm96Ualk0IhLZar87kfRCyKHzHTeTt2jYhm7M=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\czNf3btAeBW-vvID5LAfgcsNZ_GM3ssVuPaMflcg0rs=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\blazor\blazor.boot.json
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\crudBlazor.Client.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Json.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\mscorlib.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\netstandard.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.Linq.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Core.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Net.WebSockets.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Memory.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Bindings.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Mono.Security.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Transactions.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.Serialization.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ServiceModel.Internals.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Composition.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.FileSystem.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Drawing.Common.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.DataSetExtensions.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Threading.Tasks.Extensions.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.Vectors.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Encodings.Web.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Annotations.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\crudBlazor.Shared.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Options.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\crudBlazor.Client.pdb.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\crudBlazor.Shared.pdb.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.3.2.0.js.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.timezones.dat.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.wasm.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\blazor.webassembly.js.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\blazor.boot.json.gz
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\crudBlazor.Client.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Json.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\mscorlib.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\netstandard.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.Linq.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Core.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Net.WebSockets.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Memory.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Bindings.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Mono.Security.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Transactions.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.Serialization.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ServiceModel.Internals.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Composition.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.FileSystem.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Drawing.Common.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.DataSetExtensions.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Threading.Tasks.Extensions.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.Vectors.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Encodings.Web.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Annotations.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.DataAnnotations.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\crudBlazor.Shared.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Primitives.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Options.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\crudBlazor.Client.pdb.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\crudBlazor.Shared.pdb.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.3.2.0.js.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.timezones.dat.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.wasm.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\blazor.webassembly.js.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\compressed\_framework\blazor.boot.json.br
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\staticwebassets\crudBlazor.Client.StaticWebAssets.Manifest.cache
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\staticwebassets\crudBlazor.Client.StaticWebAssets.xml
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\crudBlazor.Client.dll
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\crudBlazor.Client.pdb
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\Razor\Pages\Counter.razor.g.cs
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\Razor\Pages\FetchData.razor.g.cs
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Autor\CadastroAutor.razor.g.cs
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Autor\ListAutor.razor.g.cs
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\Razor\Pages\Autor\CadastroAutor.razor.g.cs
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\Razor\Pages\Autor\ListAutor.razor.g.cs
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Livros\CadastroLivro.razor.g.cs
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\Razor\Pages\Livros\CadastroLivro.razor.g.cs
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Livros\ListBook.razor.g.cs
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\Razor\Pages\Livros\ListBook.razor.g.cs
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\s1O_dVsSRozt0JrD3MdGcs8ZY-gyWg-hUuEFXQPLgNI=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\pwA0AHU3i-m--V1-g88hCf5DigFdKnNfsjoPnv9AnBw=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\kKXDTqHmSeNHJ6SLi97-qABhzxMFbfR-Ecbnt6khKqg=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\yJTKSeSRE5dXw-a9Z3oL9slFFQXnVp5LNzhdNi1ZC28=.hash
+C:\Users\Gabriel\Desktop\Projeto Diversão\crudBlazor\Client\obj\Debug\netstandard2.1\integrity\UuSj25dQNKS52gY8yvX5oUFuQ_FfO9yemKUkYefgguQ=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\Properties\launchSettings.json
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\crudBlazor.Client.StaticWebAssets.xml
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\crudBlazor.Client.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\crudBlazor.Client.pdb
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\crudBlazor.Client.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Json.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\mscorlib.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Buffers.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\netstandard.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.Linq.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Core.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Net.WebSockets.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Memory.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Bindings.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Mono.Security.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Transactions.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.Serialization.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ServiceModel.Internals.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Composition.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.FileSystem.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Drawing.Common.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.DataSetExtensions.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.Vectors.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Encodings.Web.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.Json.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Annotations.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.DataAnnotations.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\crudBlazor.Shared.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Options.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\crudBlazor.Client.pdb
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\crudBlazor.Shared.pdb
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.3.2.0.js
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.timezones.dat
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.wasm
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.webassembly.js
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.boot.json
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\crudBlazor.Client.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Json.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\mscorlib.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Buffers.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\netstandard.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.Linq.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Core.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Net.WebSockets.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Memory.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Bindings.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Mono.Security.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Transactions.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.Serialization.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ServiceModel.Internals.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Composition.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.FileSystem.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Drawing.Common.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.DataSetExtensions.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Threading.Tasks.Extensions.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.Vectors.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Encodings.Web.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.Json.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Annotations.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\crudBlazor.Shared.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Options.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\crudBlazor.Client.pdb.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\crudBlazor.Shared.pdb.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.3.2.0.js.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.timezones.dat.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.wasm.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.webassembly.js.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.boot.json.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\Microsoft.CSharp.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Logging.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Options.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\Microsoft.Identity.Client.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\Microsoft.JSInterop.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\Microsoft.Win32.Registry.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\System.AppContext.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\System.Buffers.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\System.Collections.Concurrent.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\System.Collections.Immutable.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\System.Collections.NonGeneric.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\System.Collections.Specialized.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\System.ComponentModel.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\System.ComponentModel.Annotations.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\System.ComponentModel.Primitives.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\System.ComponentModel.TypeConverter.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\System.Dynamic.Runtime.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\System.IO.Compression.ZipFile.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\System.IO.FileSystem.Primitives.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\System.Linq.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\System.Linq.Expressions.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\System.Memory.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\System.Net.Http.Json.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\System.Numerics.Vectors.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\System.ObjectModel.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\System.Private.DataContractSerialization.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\System.Reflection.Emit.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\System.Reflection.Emit.ILGeneration.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\System.Reflection.Emit.Lightweight.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\System.Reflection.TypeExtensions.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\System.Runtime.Numerics.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\System.Runtime.Serialization.Formatters.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\System.Runtime.Serialization.Json.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\System.Runtime.Serialization.Primitives.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\System.Security.AccessControl.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\System.Security.Cryptography.OpenSsl.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\System.Security.Cryptography.Primitives.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\System.Security.Permissions.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\System.Security.Principal.Windows.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\System.Text.Encoding.CodePages.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\System.Text.Encodings.Web.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\System.Text.Json.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\System.Text.RegularExpressions.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\System.Threading.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\System.Threading.Tasks.Extensions.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\System.Xml.ReaderWriter.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\System.Xml.XDocument.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\System.Xml.XmlDocument.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\System.Xml.XmlSerializer.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\crudBlazor.Shared.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\bin\Debug\netstandard2.1\crudBlazor.Shared.pdb
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\crudBlazor.Client.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\crudBlazor.Client.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\crudBlazor.Client.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\crudBlazor.Client.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\crudBlazor.Client.RazorComponent.input.cache
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\RazorDeclaration\App.razor.g.cs
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Autor\CadastroAutor.razor.g.cs
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Autor\ListAutor.razor.g.cs
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Categories\ListCategory.razor.g.cs
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Livros\CadastroLivro.razor.g.cs
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Livros\ListBook.razor.g.cs
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\User\CadastroUsuario.razor.g.cs
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\User\EditUsuario.razor.g.cs
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\User\ListUsuario.razor.g.cs
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\RazorDeclaration\crudBlazor.Client.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\crudBlazor.Client.TagHelpers.input.cache
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\crudBlazor.Client.TagHelpers.output.cache
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\crudBlazor.Client.RazorCoreGenerate.cache
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\Razor\App.razor.g.cs
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\Razor\Pages\Autor\CadastroAutor.razor.g.cs
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\Razor\Pages\Autor\ListAutor.razor.g.cs
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\Razor\Pages\Categories\ListCategory.razor.g.cs
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\Razor\Pages\Counter.razor.g.cs
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\Razor\Pages\FetchData.razor.g.cs
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\Razor\Pages\Index.razor.g.cs
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\Razor\Pages\Livros\CadastroLivro.razor.g.cs
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\Razor\Pages\Livros\ListBook.razor.g.cs
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\Razor\Pages\User\CadastroUsuario.razor.g.cs
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\Razor\Pages\User\EditUsuario.razor.g.cs
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\Razor\Pages\User\ListUsuario.razor.g.cs
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\Razor\_Imports.razor.g.cs
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\crudBlazor.Client.RazorTargetAssemblyInfo.cache
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\crudBlazor.Client.csproj.CopyComplete
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\blazor\unlinked.output
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\i7_uAWU_Z0C18JJubo-dF5wgYgrduxXAu7_NVxNtBcw=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\kL-omZDwqByAi_lPdMeDmr3XjHcn4RVb_LmZ4mut1Yc=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\9HGvnQk80Pk4z-yz7w4BO2sgYDG_J9xi9cNVTdlG7CQ=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\-zcPVM75OAY_joGVM8yIC1gO1SFYWP1CFERgQ8PJkfA=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\IPbQMdJxZXdk8HTlaPyXdQ6Zb82iZLphnM74yO4EURQ=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\Zw2-5aDWjgMedporhjigwhi-UCLcfl0tfa0LXUyD9HE=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\r6QdEXq0KfB8oZDzhnV4xskSbzJA0yBVi6XFpa3TGHM=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\ob5gN-szfb1CwWnyQWvWvuid3u4df593KvZeoJQEaKc=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\-cPXlNTX8GKF-lIn-2DIjtxTe0Wpy4ZDcyAj67b6JYk=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\6XMT1eT3svGdg6hFzAHJscYdTQjakoYccYTdHmKSr7Y=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\8g0neeYVmPrxWgbMI0ZTVO6257qMisUTPZ78egAnIMw=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\RMOYBniHZkD8OZrBV3ONIMTZqsBhSAcBFm4pVuY9dv4=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\fMngt4py0YmfHqV6eONyCI6R5m_YOE7KZ3U4MzCrskE=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\VAHA4LWcsdHUBgFG1-xwhc4IyJ0ZH9UyK9_qSPzDa6Y=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\C09aqx1vDLK7zQ9XnZcUqAgTDRwybxhRg-FR8HSk1v8=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\6mtLxbGMMGcIfch8cp0W9gmBoI493AxBRUPGEzOn3nU=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\moW4EYN6ExD6T0vSBMMggn62cZaTd8dSr9b-yj-9dPM=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\LUtkiqNd5ABTiuiYaqzaJxVjPq_Z4FqezuIWk-faqSA=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\R8CUbbWAKar388eFQJhUgiTgLEv2Mih9wr9iO0P7ImU=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\ptCMHBy9q8MMLU0ukLMuvvhQk-yYljw37MTKtfsvuFQ=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\hLbkXBzxUk9DSXYTLGRowe_80rxmpXsqEZbPIL4_5zs=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\vcCLMX4xAsUqKuQjjIkzu1O9pHGO-tdvysgSmEjL6oo=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\eejp4oI3sQBq-tI6GsJNaPu3Dkdot5Vbn8_R3w2vYLE=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\dxfTuT6ffPMmvuUUTfv7_bpLtOZZZHQdz77hjhy9qHw=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\TkH6yxFQlTfY8NfznePrCdYJiEVpM9Dqy4Uu4H9qk10=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\qAKfFnquY_7UC-MzLi04rjqEhLzTryCoLg-S6MxI19I=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\vO_Y3zeokojTa4SlwlL6yXGo08U8eD7QqLl3B_oUU8U=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\BwqPvfEq7obG3cySRO7Q8cXop8mRJtyLlWnHbU45xzM=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\qHdxgeB0nKE8odGQX_eGQwM_lg3dEkT2XpjVyoAB9bE=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\bSgsT2x5xMvs8mara5wU_EJwcyHa9GVMU85HwhWcdWM=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\m7Q_cF5-ji3OMfdGlCuE8pQ-iM_kxNHLq-IEWVvIaOg=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\tmnkCmP9OzLUkpQ3LP7PRosi7gt5pyfEZCM6aqAokFI=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\LIfCYwg_PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\PEg9ghiKSWBTX0jq8pFDvv2Yvw92Y8W0ELtWrSE4fhA=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\PBU5INASuPqDlIS0ic0TMSDwIZQ6BIM6N0S0K5FhZHE=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\VGaB03HIjFg4jeK7BomIFzlhhY3vW5N_jWuRqZkbJsY=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\FJ_rEgcx6ljTxwbRXZSUGfrDKpVvOxHCSfNxbnXNn3M=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\Vio27NdWW1HmLCdcXVEyHpx4LnRfNjOlElipIlxM-uQ=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\6eWNJmObgA9g37KbjpD_lhTy18eoW5cLdTcnDGGojBU=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\zTPnU1_9ypAxCxa2fYaOenSFRqQPNlOzqY11ZMnf0uU=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\OiB7aMJ4FWCMAGUuPV8m-9CZgx0Kap_ejQFSALUhpeQ=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\mQqyOIjuVduaLQ7ZyvDrChDLp8rTeQknIIWDzqsO4eY=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\3trD3kyUrc0a2IrNSfLT2rSZ35MMdD2qtqG_vk_U8QA=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\tY1dlliVr_yGzBF7d0z-iaulZfBJNaSrCKDD0RP2cc8=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\r8LuqDQgcB-c3E48xHqsAY1eRZB1ZtuqZF6nlufn7kg=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\DrtNiKIMjfSOdamH5Bs5zHmjFADgNiwrY5tRgTm6XuI=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\sMUxQEgnL-opNKBj6P9vNoOnnwb0545vj6DOruCVDcE=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\cKAZb7xh11kZxyizcq_t1c8646D5ZoQNvEwOg3z_DX8=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\LqwA2Rpm96Ualk0IhLZar87kfRCyKHzHTeTt2jYhm7M=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\czNf3btAeBW-vvID5LAfgcsNZ_GM3ssVuPaMflcg0rs=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\blazor\blazor.boot.json
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\crudBlazor.Client.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Json.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\mscorlib.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\netstandard.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.Linq.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Core.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Net.WebSockets.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Memory.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Bindings.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Mono.Security.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Transactions.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.Serialization.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ServiceModel.Internals.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Composition.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.FileSystem.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Drawing.Common.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.DataSetExtensions.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Threading.Tasks.Extensions.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.Vectors.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Encodings.Web.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Annotations.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\crudBlazor.Shared.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Options.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\crudBlazor.Client.pdb.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\crudBlazor.Shared.pdb.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.3.2.0.js.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.timezones.dat.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.wasm.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\blazor.webassembly.js.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\blazor.boot.json.gz
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\crudBlazor.Client.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Json.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\mscorlib.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\netstandard.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.Linq.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Core.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Net.WebSockets.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Memory.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Bindings.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Mono.Security.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Transactions.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.Serialization.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ServiceModel.Internals.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Composition.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.FileSystem.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Drawing.Common.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.DataSetExtensions.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Threading.Tasks.Extensions.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.Vectors.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Encodings.Web.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Annotations.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.DataAnnotations.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\crudBlazor.Shared.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.DataAnnotations.Validation.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Primitives.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Options.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\crudBlazor.Client.pdb.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\crudBlazor.Shared.pdb.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.3.2.0.js.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.timezones.dat.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.wasm.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\blazor.webassembly.js.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\compressed\_framework\blazor.boot.json.br
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\staticwebassets\crudBlazor.Client.StaticWebAssets.Manifest.cache
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\staticwebassets\crudBlazor.Client.StaticWebAssets.xml
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\crudBlazor.Client.dll
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\crudBlazor.Client.pdb
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Categories\CadastroCategory.razor.g.cs
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\Razor\Pages\Categories\CadastroCategory.razor.g.cs
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\SCAPdIhraS6nrm-cKL3FzgWZsnNc9XmJlDIIH9Y4H6c=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\RQZIqfrOkrbAMqBO63z22-hZIwXTQtAQmdQ1l-xlyRE=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\9A6xnN67j9FSuor6kmZXlet4PMVKkp_cP8MkNu21MTc=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\AdwFqFCw5tYJJKbBSXtZDrG69pGxhXyV8HFj8Cx3yMs=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\Qatk4j0hXa2AwnU50zRXSsrn2g2ZSLs5afQmLVijm2E=.hash

@@ -1,0 +1,55 @@
+@page  "/Book/ListBook"
+@using System.Net.Http
+@inject HttpClient Http
+@inject NavigationManager NavigationManager
+
+<h3>Livros</h3>
+
+<div class="card-body">
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">Titulo</th>
+                <th scope="col">Sinopse</th>
+                
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in bookList)
+            {
+            <tr>
+                <td>@item.Titulo</td>
+                <td>@item.Sinopse</td>
+                
+                <td>
+                    <a href="/Book/EditBook/@item.BookId.ToString()" ><button class="btn btn-success">Editar</button></a>
+                    <button class="btn btn-danger" @onclick="@(() => DeleteBook(item.BookId))">Delete</button>
+                </td>
+            </tr>
+            }   
+        </tbody>
+    </table>
+</div>
+
+@code {
+
+    private List<Book> bookList = new List<Book>();
+
+    protected override async Task OnInitializedAsync()
+    {
+
+        var books = await Http.GetFromJsonAsync<List<Book>>("/Book/List");
+        foreach (var item in books)
+        {
+            bookList.Add(item);
+        }
+    }
+
+    private async Task DeleteBook(int itemId)
+    {
+        //call controller
+        await Http.DeleteAsync("/Book/Delete/"+itemId);
+        NavigationManager.NavigateTo("Book/ListBook", true);
+    }
+
+}

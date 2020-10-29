@@ -1,0 +1,48 @@
+@page  "/Autor/ListAutor"
+@using System.Net.Http
+@inject HttpClient Http
+@inject NavigationManager NavigationManager
+
+<h3>Autores</h3>
+
+<div class="card-body">
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">Nome</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in autorList)
+            {
+            <tr>
+                <td>@item.Nome</td>
+                <td>
+                    <button class="btn btn-danger" @onclick="@(() => DeleteAutor(item.IdAutor))">Delete</button>
+                </td>
+            </tr>
+            }   
+        </tbody>
+    </table>
+</div>
+
+@code {
+    private List<Autor> autorList = new List<Autor>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        var autores = await Http.GetFromJsonAsync<List<Autor>>("/Autor/List");
+        foreach (var item in autores)
+        {
+            autorList.Add(item);
+        }
+    }
+
+    private async Task DeleteAutor(int itemId)
+    {
+        //call controller
+        await Http.DeleteAsync("/Autor/Delete/"+itemId);
+        NavigationManager.NavigateTo("Autor/ListAutor", true);
+    }
+
+}
