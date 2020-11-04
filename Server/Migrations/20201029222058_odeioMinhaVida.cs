@@ -107,7 +107,6 @@ namespace crudBlazor.Server.Migrations
                 {
                     RentId = table.Column<int>(nullable: false)
                         .Annotation("MySql:ValueGenerationStrategy", MySqlValueGenerationStrategy.IdentityColumn),
-                    nomeBiblioteca = table.Column<string>(nullable: true),
                     BookId = table.Column<int>(nullable: false),
                     UserId = table.Column<int>(nullable: false)
                 },

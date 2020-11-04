@@ -1274,10 +1274,10 @@ C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\Raz
 C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\Razor\Pages\Categories\CadastroCategory.razor.g.cs
 C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Rent\CadastroRent.razor.g.cs
 C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\Razor\Pages\Rent\CadastroRent.razor.g.cs
-C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\C9asL4Six2f8Z1sUkJq202eL7sViRzu9I0XgOmStk_s=.hash
-C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\WB5cnjoR-j63AZ65OFFrUZwADfxXfEwQeawB18_o5AA=.hash
 C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Rent\ListRent.razor.g.cs
 C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\Razor\Pages\Rent\ListRent.razor.g.cs
-C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\tiSZ7S_pe0RVlAitl3FqqfZUXofm8Y1RzqnaizIGeo8=.hash
-C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\mNVmqA-Xm3h4s1BItnLstecFXxdjHmec_Cib0RzejXo=.hash
-C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\61hDfnYDzNRIoPP5Zu5YjapNdc1bT7MPG9CAcnDoZ1A=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\i_KPCO9qwnI4BwNV0fQtH74pdbBvEzoO_7hxb6nLG-Q=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\SKZ8TWCawE10Iw406tvFCfb31VBykAGhJNmEMb4GRBg=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\MvsBqR4avbDQ6JK4dNAeCQwknxHsYzVUhKqfcFX1Mlc=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\KWURH28j4ki4_yYD8MktzPwNlC9XzIF3kjhVIpazgwE=.hash
+C:\Users\Gabriel\Desktop\blazorLivraria-main\Client\obj\Debug\netstandard2.1\integrity\7ea6diL0iZI7d-kR77_Q50Z2XBNsxaSscZhetHE3NUA=.hash

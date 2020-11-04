@@ -41,7 +41,6 @@ public class RentController : Controller
         {
                 var newRent = new Rent
                 {
-                    nomeBiblioteca = rent.nomeBiblioteca,
                     BookId = Convert.ToInt32(rent.BookId),
                     UserId = Convert.ToInt32(rent.UserId)
                 };
@@ -54,5 +53,23 @@ public class RentController : Controller
         {
             return View(e);
         }
+    }
+
+    [HttpDelete]
+    [Route("Delete/{id}")]
+    public async Task<ActionResult<Rent>> Delete(int id)
+    {
+        if (!ModelState.IsValid)
+        {
+            return BadRequest(ModelState);
+        }
+        var rent = await db.Rents.FindAsync(id);
+        if (rent == null)
+        {
+            return NotFound();
+        }
+        db.Rents.Remove(rent);
+        await db.SaveChangesAsync();
+        return rent;
     }
 }

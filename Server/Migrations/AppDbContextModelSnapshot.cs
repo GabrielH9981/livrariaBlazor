@@ -101,9 +101,6 @@ namespace crudBlazor.Server.Migrations
                     b.Property<int>("UserId")
                         .HasColumnType("int");
 
-                    b.Property<string>("nomeBiblioteca")
-                        .HasColumnType("longtext CHARACTER SET utf8mb4");
-
                     b.HasKey("RentId");
 
                     b.HasIndex("BookId")

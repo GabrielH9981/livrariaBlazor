@@ -9,7 +9,7 @@ using crudBlazor.Server;
 namespace crudBlazor.Server.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20201029072853_odeioMinhaVida")]
+    [Migration("20201029222058_odeioMinhaVida")]
     partial class odeioMinhaVida
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -102,9 +102,6 @@ namespace crudBlazor.Server.Migrations
 
                     b.Property<int>("UserId")
                         .HasColumnType("int");
-
-                    b.Property<string>("nomeBiblioteca")
-                        .HasColumnType("longtext CHARACTER SET utf8mb4");
 
                     b.HasKey("RentId");
 

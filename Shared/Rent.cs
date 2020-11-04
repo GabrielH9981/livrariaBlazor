@@ -9,7 +9,6 @@ namespace crudBlazor.Shared
     {
         [Required]
         public int RentId { get; set; }
-        public string nomeBiblioteca { get; set; }
         public int BookId { get; set; }
         public Book Book { get; set; }
         public int UserId { get; set; }
